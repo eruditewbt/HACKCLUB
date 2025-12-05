@@ -27,10 +27,10 @@ def valueIteration (mdp) :
         # read out policy
         pi = {}
         for state in mdp.states():
-            if mdp.isEnd [state] :
+            if mdp.isEnd(state):
                 pi[state] = 'none'
             else:
-                pi[state] = max((Q(state, action), action) for action in mdp.actions(state)) [1]
+                pi[state] = max((Q(state, action), action) for action in mdp.actions(state))[1]
 
     # print stuff out
     os.system('clear')

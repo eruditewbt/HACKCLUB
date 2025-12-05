@@ -19,7 +19,7 @@ def uniformCostSearch(problem):
 
 ### Main
 
-problem = TransportationProblem(N=1000)
+problem = TransportationProblem(N=100)
 # print(problem.succAndCost(3))
 # print(problem.succAndCost(9))
 

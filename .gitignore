@@ -1,0 +1,6 @@
+local_dev_agent/
+snippets/
+zip/
+data/
+assets/
+WEB/.env

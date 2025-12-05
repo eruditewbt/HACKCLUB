@@ -12,7 +12,6 @@ def dynamicProgramming(problem):
         # Base case
         if problem.isEnd(state):
             best.append(history)
-            return 0
         if state in cache: # Exponential savings
             return cache [state]
 
@@ -24,7 +23,7 @@ def dynamicProgramming(problem):
     return (futureCost(problem.startState(), []), [])#best[0])
 
 ### Main
-problem = TransportationProblem(N=100)
+problem = TransportationProblem(N=10)
 # print(problem.succAndCost(3))
 # print(problem.succAndCost(9))
 

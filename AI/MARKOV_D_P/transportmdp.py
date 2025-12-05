@@ -1,7 +1,7 @@
 
 
 class TransportationMDP(object):
-    def _init_(self, N):
+    def __init__(self, N):
         # N = number of blocks
         self.N = N
     def startState(self):
