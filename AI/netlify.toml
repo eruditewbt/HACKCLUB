@@ -1,0 +1,11 @@
+[build]
+  publish = "pddss/public"
+  functions = "pddss/netlify/functions"
+
+[functions]
+  directory = "pddss/netlify/functions"
+
+[[redirects]]
+  from = "/api/planner"
+  to = "/.netlify/functions/pddss_prob"
+  status = 200
