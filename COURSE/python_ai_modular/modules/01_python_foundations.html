@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Module 1: Python Foundations for AI</title>
+  <link rel="stylesheet" href="../assets/style.css" />
+</head>
+<body>
+  <main class="layout">
+    <section class="panel">
+      <div class="nav">
+  <a href="../index.html">Index</a>
+  <a href="01_python_foundations.html">Python Foundations</a>
+  <a href="02_python_for_ai.html">Python for AI</a>
+  <a href="03_math_stats.html">Math and Stats</a>
+  <a href="04_ml_core.html">Core ML</a>
+  <a href="05_deep_learning.html">Deep Learning</a>
+  <a href="06_classical_ai.html">Classical AI</a>
+  <a href="07_llm_engineering.html">LLM Engineering</a>
+  <a href="08_production_python.html">Production Python</a>
+  <a href="09_mlops_eval_safety.html">MLOps, Eval, Safety</a>
+  <a href="10_capstones.html">Capstones</a>
+  <a href="11_snippet_catalog.html">Snippet Catalog</a>`n  <a href="12_project_showcase.html">Project Showcase</a>
+</div>
+      <h1>Module 1: Python Foundations for AI</h1>
+<p>Goal: build Python fundamentals required for machine learning, LLM workflows, and production services.</p>
+<h2>Core Topics</h2>
+<ul>
+  <li>Variables, control flow, loops, and functions</li>
+  <li>Data structures: list, dict, set, tuple and practical patterns</li>
+  <li>Modules, imports, file I/O, and error handling</li>
+  <li>Basic object-oriented design for reusable AI code</li>
+</ul>
+<h2>Repository References</h2>
+<ul>
+  <li><code>python_snippets/course_basics/variables_and_flow.py</code></li>
+  <li><code>python_snippets/course_basics/functions_and_oop.py</code></li>
+  <li><code>python_snippets/course_basics/errors_and_files.py</code></li>
+  <li><code>AI/RAW_UTILS/README.md</code> for utility design patterns</li>
+</ul>
+<pre><code>def safe_divide(a, b):
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None
+
+print(safe_divide(10, 2))
+print(safe_divide(10, 0))</code></pre>
+<h2>Exercises</h2>
+<ul>
+  <li>Write a script that reads CSV rows and returns normalized dictionaries.</li>
+  <li>Implement a reusable function library with at least 5 tested helpers.</li>
+  <li>Add input validation and friendly error messages for a CLI script.</li>
+</ul>
+<h2>Definition of Done</h2>
+<ul>
+  <li>You can explain Python control flow and data structures without reference notes.</li>
+  <li>You can write and import your own module cleanly.</li>
+  <li>You can handle invalid input without crashing.</li>
+</ul>
+      <h2>Run Guide</h2>
+<pre><code>python python_snippets/course_basics/variables_and_flow.py
+python python_snippets/course_basics/functions_and_oop.py
+python python_snippets/course_basics/errors_and_files.py</code></pre>
+<h2>Completion Checklist</h2>
+<ul>
+  <li>Core concepts for this module can be explained from memory.</li>
+  <li>At least one referenced file was executed successfully.</li>
+  <li>One improvement or extension was implemented and documented.</li>
+</ul><p class="footer"><a href="../index.html">Back to course index</a></p>
+    </section>
+  </main>
+</body>
+</html>
+
+
