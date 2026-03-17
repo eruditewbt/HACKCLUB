@@ -1,0 +1,137 @@
+{
+  "noun": [
+    {
+      "word": "dog",
+      "description": "Domesticated species of canid",
+      "extract": "The dog is a domesticated descendant of wolves. Also called the domestic dog, it was selectively bred during the Late Pleistocene by hunter-gatherers. Dogs and the modern gray wolf share a common ancestor. Dogs were the first species to be domesticated over 14,000 years ago, before the development of agriculture, though genetic studies suggest the domestication process may have begun over 25,000 years ago. Due to their long association with humans, dogs have gained the ability to thrive on a starch-rich diet that would be inadequate for other canids."
+    },
+    {
+      "word": "tree",
+      "description": "Perennial woody plant with elongated trunk",
+      "extract": "In botany, a tree is a perennial plant with an elongated stem, or trunk, usually supporting branches and leaves. In some usages, the definition of a tree may be narrower, e.g., including only woody plants with secondary growth, only plants that are usable as lumber, or only plants above a specified height. Wider definitions include taller palms, tree ferns, bananas, and bamboos."
+    },
+    {
+      "word": "computer",
+      "description": "Programmable machine that processes data",
+      "extract": "A computer is a machine that can be programmed to automatically carry out sequences of arithmetic or logical operations (computation). Modern digital electronic computers can perform generic sets of operations known as programs, which enable computers to perform a wide range of tasks. The term computer system may refer to a nominally complete computer that includes the hardware, operating system, software, and peripheral equipment needed and used for full operation, or to a group of computers that are linked and function together, such as a computer network or computer cluster."
+    },
+    {
+      "word": "city",
+      "description": "Large permanent human settlement",
+      "extract": "A city is a human settlement of a substantial size. The term \"city\" has different meanings around the world and in some places the settlement can be very small. Even where the term is limited to larger settlements, there is no universally agreed definition of the lower boundary for their size. In a narrower sense, a city can be defined as a permanent and densely populated place with administratively defined boundaries whose members work primarily on non-agricultural tasks. Cities generally have extensive systems for housing, transportation, sanitation, utilities, land use, production of goods, and communication. Their density facilitates interaction between people, government organizations, and businesses, sometimes benefiting different parties in the process, such as improving the efficiency of goods and service distribution."
+    },
+    {
+      "word": "teacher",
+      "description": "Person who helps others learn",
+      "extract": "A teacher, also called a schoolteacher or formally an educator, is a person who helps students to acquire knowledge, competence, or virtue, via the practice of teaching."
+    },
+    {
+      "word": "river",
+      "description": "Natural flowing freshwater stream",
+      "extract": "A river is a natural stream of fresh water that flows on land or inside caves towards another body of water at a lower elevation, such as an ocean, lake, or another river. A river may run dry before reaching the end of its course if it runs out of water, or only flow during certain seasons. Rivers are regulated by the water cycle, the processes by which water moves around the Earth. Water first enters rivers through precipitation, whether from rainfall, the runoff of water down a slope, the melting of glaciers or snow, or seepage from aquifers beneath the surface of the Earth."
+    }
+  ],
+  "verb": [
+    {
+      "word": "run",
+      "description": "Topics referred to by the same term",
+      "extract": "Run(s) or RUN may refer to:"
+    },
+    {
+      "word": "eat",
+      "description": "Ingestion of food",
+      "extract": "Eating is the ingestion of food. In biology, this is typically done to provide a heterotrophic organism with energy and nutrients and to allow for growth. Animals and other heterotrophs must eat in order to survive \u2013 carnivores eat other animals, herbivores eat plants, omnivores consume a mixture of both plant and animal matter, and detritivores eat detritus. Fungi digest organic matter outside their bodies as opposed to animals that digest their food inside their bodies."
+    },
+    {
+      "word": "sleep",
+      "description": "Naturally recurring resting state of mind and body",
+      "extract": "Sleep is a state of reduced mental and physical activity in which consciousness is altered and certain sensory activity is inhibited. During sleep, there is a marked decrease in muscle activity and interactions with the surrounding environment. While sleep differs from wakefulness in terms of the ability to react to stimuli, it still involves active brain patterns, making it more reactive than a coma or disorders of consciousness."
+    },
+    {
+      "word": "write",
+      "description": "Persistent representation of language",
+      "extract": "Writing is the act of creating a persistent, usually visual representation of language on a surface. As a structured system of communication, writing is also known as written language. Historically, written languages have emerged as a way to record corresponding spoken languages. While the use of language is universal across human societies, most spoken languages are not written. A particular set of symbols, called a script, as well as the rules by which they encode a particular spoken language, is known as a writing system. In some rare cases, writing may be tactile rather than visual."
+    },
+    {
+      "word": "build",
+      "description": "Topics referred to by the same term",
+      "extract": "Build may refer to:Build, a 1995 first-person shooter engine\n\"Build\" (song), a 1987 song by The Housemartins\nMicrosoft Build, a developer conference\nSoftware build, a compiled version of software, or the process of producing it\nBetter Utilizing Investments to Leverage Development (BUILD), a United States federal government program"
+    },
+    {
+      "word": "drive",
+      "description": "Topics referred to by the same term",
+      "extract": "Drive may refer to:"
+    }
+  ],
+  "adjective": [
+    {
+      "word": "beautiful",
+      "description": "Topics referred to by the same term",
+      "extract": "Beautiful, an adjective used to describe things as possessing beauty, may refer to:"
+    },
+    {
+      "word": "happy",
+      "description": "Positive emotional state",
+      "extract": "Happiness is a complex and multifaceted emotion that encompasses a range of positive feelings, from contentment to intense joy. It is often associated with positive life experiences, such as achieving goals, spending time with loved ones, or engaging in enjoyable activities. However, happiness can also arise spontaneously, without any apparent external cause."
+    },
+    {
+      "word": "fast",
+      "description": "Topics referred to by the same term",
+      "extract": "Fast or FAST may refer to:"
+    },
+    {
+      "word": "blue",
+      "description": "Colour between violet and cyan on the visible spectrum of light",
+      "extract": "Blue is one of the three primary colours in the RGB (additive) colour model, as well as in the RYB colour model. It lies between violet and cyan on the spectrum of visible light. The term blue generally describes colours perceived by humans observing light with a dominant wavelength between approximately 450 and 495\u00a0nanometres. The clear daytime sky and the deep sea appear blue because of an optical effect known as Rayleigh scattering. An optical effect called the Tyndall effect explains blue eyes. Distant objects appear more blue because of another optical effect called aerial perspective."
+    },
+    {
+      "word": "ancient",
+      "description": "Period between prehistory and the medieval era",
+      "extract": "Ancient history is a time period from the beginning of writing and recorded human history through late antiquity. The span of recorded history is roughly 5,000 years, beginning with the development of Sumerian cuneiform script. Ancient history covers all continents inhabited by humans in the period 3000 BC\u00a0\u2013 AD 500, ending with the expansion of Islam in late antiquity."
+    }
+  ],
+  "adverb": [
+    {
+      "word": "quickly",
+      "description": "Bubble tea chain",
+      "extract": "Quickly is a tapioca milk tea franchise, with over 2000 locations in Africa, Asia, Europe, and North America. Quickly is the brand name of Kuai Ke Li Enterprise Co. Ltd., which was founded by Nancy Yang in Taiwan and started franchising."
+    },
+    {
+      "word": "slowly",
+      "description": "Topics referred to by the same term",
+      "extract": "Slowly may refer to:Slowly (app), Hong Kongese delayed messaging application\nSlowly (album), by Ghost, 1994\n\"Slowly\" (song), by Webb Pierce, 1954\n\"Slowly\", by Infected Mushroom from Legend of the Black Shawarma, 2009\n\"Slowly\", by Preoccupations from Arrangements, 2022\n\"Slowly\", a 2023 song by Indo-Canadian rapper Sukha"
+    },
+    {
+      "word": "silently",
+      "description": "2007 studio album by Blonde Redhead",
+      "extract": "23 is the seventh studio album by American alternative rock band Blonde Redhead. It released on April 10, 2007 by 4AD."
+    },
+    {
+      "word": "happily",
+      "description": "Topics referred to by the same term",
+      "extract": "Happily may refer to:Happily (film), an American comedy thriller\nHappily (horse), a racehorse\n\"Happily\" (song), by One Direction"
+    }
+  ],
+  "exclamation": [
+    {
+      "word": "hello",
+      "description": "Salutation or greeting",
+      "extract": "Hello is a salutation or greeting in the English language. It is first attested in writing from 1826."
+    },
+    {
+      "word": "wow",
+      "description": "Topics referred to by the same term",
+      "extract": "Wow, WoW, or WOW may refer to:"
+    },
+    {
+      "word": "oops",
+      "description": "Topics referred to by the same term",
+      "extract": "Oops or Oopsie is an interjection made in response to a minor mistake. It may also refer to:"
+    },
+    {
+      "word": "hey",
+      "description": "Topics referred to by the same term",
+      "extract": "Hey, HEY, or Hey! may refer to:"
+    }
+  ]
+}
