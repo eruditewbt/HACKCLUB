@@ -1,0 +1,15 @@
+{
+  "schedules": [
+    {
+      "schedule_id": "example-every-5-min",
+      "workflow_path": "workflows/templates/hello_world.json",
+      "org_id": "demo",
+      "cron": "*/5 * * * *",
+      "interval_s": null,
+      "enabled": true,
+      "last_run_at": null,
+      "next_run_at": null
+    }
+  ]
+}
+

@@ -1,0 +1,11 @@
+{
+  "dataset": "sales",
+  "rules": [
+    {"type": "not_null", "column": "date"},
+    {"type": "not_null", "column": "region"},
+    {"type": "allowed_values", "column": "region", "values": ["US", "EU"]},
+    {"type": "range", "column": "discount", "min": 0.0, "max": 0.5},
+    {"type": "range", "column": "orders", "min": 0},
+    {"type": "range", "column": "revenue", "min": 0.0}
+  ]
+}

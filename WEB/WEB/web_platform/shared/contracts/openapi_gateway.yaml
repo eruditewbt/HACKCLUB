@@ -1,0 +1,24 @@
+openapi: 3.0.3
+info:
+  title: WEB API Gateway
+  version: 0.1.0
+paths:
+  /v1/auth/login:
+    post:
+      summary: Login (demo)
+      responses:
+        "200":
+          description: OK
+  /v1/billing/plans:
+    get:
+      summary: List plans
+      responses:
+        "200":
+          description: OK
+  /v1/usage/events:
+    post:
+      summary: Ingest usage event
+      responses:
+        "200":
+          description: OK
+

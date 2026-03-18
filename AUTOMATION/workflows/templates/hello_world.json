@@ -1,0 +1,16 @@
+{
+  "workflow_id": "hello_world",
+  "tasks": [
+    {
+      "id": "hello",
+      "type": "core.echo",
+      "inputs": {
+        "message": "Automation OS is running."
+      },
+      "retry": {
+        "max_attempts": 1
+      }
+    }
+  ]
+}
+

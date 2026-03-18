@@ -1,0 +1,12 @@
+{
+  "run_id": "6a2d95c513d34544a21cbc09f7cbb26a",
+  "org_id": "demo",
+  "workflow_id": "website_monitor",
+  "ok": false,
+  "tasks": {
+    "check_home": {
+      "ok": false,
+      "error": "<urlopen error [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions>"
+    }
+  }
+}

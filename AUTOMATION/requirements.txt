@@ -1,0 +1,8 @@
+# Engine is stdlib-only.
+# Optional service:
+# fastapi
+# uvicorn
+
+# Optional browser automation:
+# playwright
+# selenium

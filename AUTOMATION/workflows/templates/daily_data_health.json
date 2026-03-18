@@ -1,0 +1,17 @@
+{
+  "workflow_id": "daily_data_health",
+  "tasks": [
+    {
+      "id": "run_health",
+      "type": "data.health_run",
+      "inputs": {
+        "csv_path": "datasets/samples/sales.csv",
+        "rules_path": "datasets/samples/sales.rules.json",
+        "dataset": "sales"
+      },
+      "retry": {
+        "max_attempts": 1
+      }
+    }
+  ]
+}

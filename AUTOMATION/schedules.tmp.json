@@ -1,0 +1,14 @@
+{
+  "schedules": [
+    {
+      "schedule_id": "bcc4267be105452e937896e11c15d734",
+      "workflow_path": "workflows/templates/hello_world.json",
+      "org_id": "demo",
+      "cron": null,
+      "interval_s": 1,
+      "enabled": true,
+      "last_run_at": null,
+      "next_run_at": null
+    }
+  ]
+}

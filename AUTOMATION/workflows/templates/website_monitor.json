@@ -1,0 +1,20 @@
+{
+  "workflow_id": "website_monitor",
+  "tasks": [
+    {
+      "id": "check_home",
+      "type": "web.http_check",
+      "inputs": {
+        "url": "https://example.com",
+        "expected_status": 200,
+        "contains": "Example Domain",
+        "timeout_s": 10
+      },
+      "retry": {
+        "max_attempts": 2,
+        "base_delay_s": 1.0,
+        "max_delay_s": 5.0
+      }
+    }
+  ]
+}

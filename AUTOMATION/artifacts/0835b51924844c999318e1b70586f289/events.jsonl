@@ -1,0 +1,4 @@
+{"ts": "2026-03-18T22:08:31.422510+00:00", "event": "run_started", "run_id": "0835b51924844c999318e1b70586f289", "org_id": "demo", "workflow_id": "hello_world"}
+{"ts": "2026-03-18T22:08:31.424509+00:00", "event": "task_started", "run_id": "0835b51924844c999318e1b70586f289", "task_id": "hello", "type": "core.echo"}
+{"ts": "2026-03-18T22:08:31.429505+00:00", "event": "task_finished", "run_id": "0835b51924844c999318e1b70586f289", "task_id": "hello", "ok": true}
+{"ts": "2026-03-18T22:08:31.432503+00:00", "event": "run_finished", "run_id": "0835b51924844c999318e1b70586f289", "ok": true}

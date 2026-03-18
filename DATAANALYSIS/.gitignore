@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtualenvs
+.venv/
+venv/
+ENV/
+
+# Artifacts
+artifacts/
+
+# Local secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
