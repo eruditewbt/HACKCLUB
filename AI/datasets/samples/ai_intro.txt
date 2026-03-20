@@ -1,0 +1,7 @@
+This AI Platform sample document.
+
+- Feature: SQLite FTS5 RAG
+- Feature: Deterministic answer synthesis
+- Feature: Multi-tenant org_id
+
+Use it to test ingest/search/answer.
